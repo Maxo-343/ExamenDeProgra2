@@ -1,0 +1,8 @@
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\bin\Debug\Examen1deProgra2.exe.config
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\bin\Debug\Examen1deProgra2.exe
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\bin\Debug\Examen1deProgra2.pdb
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\obj\Debug\Examen1deProgra2.csproj.AssemblyReference.cache
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\obj\Debug\Examen1deProgra2.csproj.SuggestedBindingRedirects.cache
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\obj\Debug\Examen1deProgra2.csproj.CoreCompileInputs.cache
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\obj\Debug\Examen1deProgra2.exe
+C:\Users\joset\OneDrive\Documentos\Programacion 2-Tercer Cuatrimestre\Examen de programacion\Examen1deProgra2\Examen1deProgra2\obj\Debug\Examen1deProgra2.pdb
